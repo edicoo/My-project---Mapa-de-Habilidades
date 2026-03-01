@@ -1,3 +1,7 @@
+# Mapa de Habilidades
+
+Descobrir vocação através de habilidades (técnias, comportamental e criativa) e fazer carreira na área de Tecnologia
+---
 # Etapa 1: Inventário de Habilidades
 
 ## Habilidades Técnicas
@@ -70,7 +74,7 @@
 - **Eventos em alta:** coordenação de equipes, gestão de voluntários, organização logística.  
 - **Pequenas empresas procuram:** pessoas organizadas para estruturar processos e treinar equipes.  
 
-### Ideias para usar sua habilidade de organização e ganhar dinheiro
+## Ideias para usar sua habilidade de organização e ganhar dinheiro
 - Consultoria de produtividade para profissionais autônomos.  
 - Treinamentos online sobre gestão de tempo e organização.  
 - Serviços de organização digital (documentos, workflows, agendas).  
@@ -90,7 +94,7 @@
 
 ---
 
-# Conclusão
+### Conclusão
 
 - **CLT:** empresas de tecnologia e marketing digital vão buscar especialistas em IA, automação e social media.  
 - **Home office:** consultoria em produtividade, gestão de tráfego e marketing digital.  
@@ -99,13 +103,13 @@
 
 ---
 
-# Quadro de Habilidades e Oportunidades de Mercado 2026
+### Quadro de Habilidades e Oportunidades de Mercado 2026
 
 <img width="747" height="586" alt="image" src="https://github.com/user-attachments/assets/d1a5643b-0cc4-42e7-a89b-8fd01cca5707" />
 
 ---
 
-# Respostas às suas perguntas
+### Respostas às suas perguntas
 
 - **Alguém pagaria por isso?**  
   Sim, todas essas habilidades têm valor de mercado.  
@@ -141,7 +145,7 @@
 
 ---
 # Etapa 3 - Caminhos da Monetização
----
+
 ## 1 - Oferecer serviços em plataformas (Workana, 99Freelas, Fiverr, GetNinjas)
 
 ### 🧠 Perfil Profissional (Bio para todas as plataformas)
@@ -152,7 +156,8 @@ Especialista em Agentes de IA, Automação de Processos e Marketing Digital para
 **Descrição curta (sobre você):**  
 Ajudo pequenos negócios, autônomos e e-commerces a ganhar tempo e vender mais usando Agentes de IA, automação de workflows (n8n), marketing digital e organização de processos.  
 Crio soluções práticas: atendimento automático, funis de vendas, organização digital e presença online.  
-📈 Resultado: menos trabalho manual, mais clientes, mais lucro.
+
+### 📈 Resultado: menos trabalho manual, mais clientes, mais lucro.
 
 **Diferencial:**  
 - ✔️ Soluções simples (sem complicar)  
@@ -164,7 +169,7 @@ Crio soluções práticas: atendimento automático, funis de vendas, organizaç�
 
 ### 🧩 Serviços para Cadastrar nas Plataformas
 
-#### 🤖 Serviço 1 — Criação de Agente de IA para Atendimento e Vendas
+### 🤖 Serviço 1 — Criação de Agente de IA para Atendimento e Vendas
 
 **Título (Workana / 99Freelas / Upwork):**  
 Crio Agente de IA para WhatsApp, Instagram e Site (Atendimento e Vendas Automático)
@@ -189,7 +194,7 @@ Ideal para quem perde clientes por demora no atendimento.
 
 ---
 
-#### ⚙️ Serviço 2 — Automação de Processos com n8n / Zapier
+### ⚙️ Serviço 2 — Automação de Processos com n8n / Zapier
 
 **Título:**  
 Automatizo tarefas do seu negócio com IA e workflows (n8n, integrações, CRM)
@@ -216,7 +221,7 @@ Você economiza horas por semana.
 
 ---
 
-#### 📈 Serviço 3 — Marketing Digital + Social Media para Pequenos Negócios
+### 📈 Serviço 3 — Marketing Digital + Social Media para Pequenos Negócios
 
 **Título:**  
 Crio sua presença online + posts para Instagram, TikTok e anúncios
@@ -241,7 +246,7 @@ Crio um pacote completo para pequenos negócios venderem mais:
 
 ---
 
-#### 🧠 Serviço 4 — Organização Digital e Produtividade
+### 🧠 Serviço 4 — Organização Digital e Produtividade
 
 **Título:**  
 Organizo seus processos, arquivos e rotina digital (Notion, Drive, Workflows)
@@ -280,12 +285,9 @@ Analisei sua necessidade e posso te ajudar criando uma solução com IA + automa
 **⏱ Prazo:** X dias  
 **💰 Valor:** R$ XXX  
 
-
-
 ---
 
 ### 🧰 Portfólio Simples para GitHub (estrutura)
-
 
 /portfolio  
   /agentes-ia  
@@ -299,7 +301,7 @@ Analisei sua necessidade e posso te ajudar criando uma solução com IA + automa
 
 ---
 
-## Cada arquivo contém
+### Cada arquivo contém
 - Problema  
 - Solução  
 - Tecnologias usadas  
@@ -307,7 +309,7 @@ Analisei sua necessidade e posso te ajudar criando uma solução com IA + automa
 
 ---
 
-## 🎯 Funil de Aquisição de Clientes
+### 🎯 Funil de Aquisição de Clientes
 
 **1️⃣ Plataformas**  
 → Fechar primeiros clientes e pegar avaliações  
@@ -323,7 +325,7 @@ Analisei sua necessidade e posso te ajudar criando uma solução com IA + automa
 
 ---
 
-## 📱 Exemplos de Conteúdo para Atrair Clientes
+### 📱 Exemplos de Conteúdo para Atrair Clientes
 
 **Post:**  
 “3 tarefas que seu negócio não deveria fazer manualmente em 2026.”
@@ -336,7 +338,7 @@ Analisei sua necessidade e posso te ajudar criando uma solução com IA + automa
 
 ---
 
-## 💰 Estratégia de Preço Inteligente
+### 💰 Estratégia de Preço Inteligente
 
 - Primeiros 3 clientes: preço promocional  
 - Depois: aumenta valor  
@@ -345,22 +347,20 @@ Analisei sua necessidade e posso te ajudar criando uma solução com IA + automa
 
 ---
 
-## 🔥 Pitch rápido para Workana / 99Freelas
+### 🔥 Pitch rápido para Workana / 99Freelas
 
 Eu ajudo pequenos negócios a ganhar tempo e vender mais com agentes de IA e automação de processos.  
 Faço soluções simples, rápidas e com foco em resultado real.
 
 ---
 
-# 2 - Criar conteúdo gratuito para atrair clientes  
+## 2 - Criar conteúdo gratuito para atrair clientes  
 Instagram · TikTok · LinkedIn · YouTube
 
 Perfeito — vou te entregar um kit de conteúdo gratuito pronto pra postar e converter no Instagram, TikTok, LinkedIn e YouTube, focado no seu posicionamento como Organizador Profissional + IA & Automação para pequenos negócios.  
 É copiar, colar e postar. Bora? 🚀
 
----
-
-## 📌 BIO PARA INSTAGRAM (Organizador Profissional + IA)
+### 📌 BIO PARA INSTAGRAM (Organizador Profissional + IA)
 
 **Opção 1 (direta e vendedora):**  
 Organizo o caos de autônomos e pequenos negócios 🧠  
@@ -381,9 +381,9 @@ Consultorias e mentorias 1:1
 
 ---
 
-## ✍️ TEXTOS PRONTOS PARA POSTS (Instagram / LinkedIn)
+### ✍️ TEXTOS PRONTOS PARA POSTS (Instagram / LinkedIn)
 
-### 🧠 Post 1 – Dor do cliente
+#### 🧠 Post 1 – Dor do cliente
 
 **Texto:**  
 Você sente que trabalha o dia inteiro e mesmo assim vive atrasado?  
@@ -402,7 +402,7 @@ Se quiser, faço um diagnóstico grátis no direct.
 
 ---
 
-### ⚙️ Post 2 – Autoridade
+#### ⚙️ Post 2 – Autoridade
 
 **Texto:**  
 Hoje organizei o sistema de trabalho de um cliente em 1 hora.  
@@ -418,7 +418,7 @@ Quer que eu organize o seu?
 
 ---
 
-### 📈 Post 3 – Educação
+#### 📈 Post 3 – Educação
 
 **Texto:**  
 3 sinais de que seu negócio precisa de organização + automação urgente:  
@@ -431,9 +431,9 @@ tem dinheiro e tempo vazando do seu negócio agora.
 
 ---
 
-## 🧾 DESCRIÇÕES DE SERVIÇOS (para perfil nas plataformas e redes)
+### 🧾 DESCRIÇÕES DE SERVIÇOS (para perfil nas plataformas e redes)
 
-### 🧠 Organização Profissional Digital
+#### 🧠 Organização Profissional Digital
 Organizo seus processos, arquivos e rotina para você trabalhar com clareza e foco.  
 Entrego:  
 - ✔️ Estrutura no Drive / Notion  
@@ -445,7 +445,7 @@ Ideal para autônomos e pequenos negócios que vivem no caos.
 
 ---
 
-### 🤖 Organização + Automação com IA
+#### 🤖 Organização + Automação com IA
 Estruturo seu fluxo de trabalho e automatizo tarefas repetitivas:  
 - ✔️ Atendimento automático  
 - ✔️ Organização de leads  
@@ -456,7 +456,7 @@ Resultado: menos trabalho manual, mais tempo e mais vendas.
 
 ---
 
-## 📄 MODELO DE PROPOSTA PARA CLIENTE (copiar e colar)
+### 📄 MODELO DE PROPOSTA PARA CLIENTE (copiar e colar)
 
 **Proposta de Serviço – Organização Profissional + Automação**
 
@@ -488,11 +488,11 @@ Podemos começar quando você preferir.
 
 -----
 
-# Plano de Conteúdo para Atrair Clientes
+## Plano de Conteúdo para Atrair Clientes
 
 ---
 
-## 🎥 IDEIAS DE CONTEÚDO PARA TIKTOK (com ganchos prontos)
+### 🎥 IDEIAS DE CONTEÚDO PARA TIKTOK (com ganchos prontos)
 
 1️⃣ “Você trabalha o dia todo e não vê resultado? Olha isso.”  
 2️⃣ “Isso aqui está te fazendo perder tempo todo dia.”  
@@ -507,28 +507,28 @@ Podemos começar quando você preferir.
 
 ---
 
-## 🎬 3 Roteiros Curtos para TikTok / Reels
+### 🎬 3 Roteiros Curtos para TikTok / Reels
 
-### 🎥 Vídeo 1 – Dor
+#### 🎥 Vídeo 1 – Dor
 “Você abre mil abas, perde arquivos e responde cliente atrasado?  
 Isso não é falta de esforço.  
 É falta de organização de processos.  
 Eu ajudo a resolver isso.”  
 **CTA:** “Me chama no direct.”
 
-### 🎥 Vídeo 2 – Autoridade
+#### 🎥 Vídeo 2 – Autoridade
 “Organizei o sistema de trabalho de um cliente hoje.  
 Em 1 hora, ele já economizou mais de 2 horas por dia.”  
 **CTA:** “Quer isso no seu negócio?”
 
-### 🎥 Vídeo 3 – Oferta
+#### 🎥 Vídeo 3 – Oferta
 “Se você é autônomo ou pequeno negócio e vive no caos,  
 eu faço um diagnóstico grátis da sua rotina.”  
 **CTA:** “Me chama no direct.”
 
 ---
 
-## 📺 IDEIAS DE VÍDEOS PARA YOUTUBE
+### 📺 IDEIAS DE VÍDEOS PARA YOUTUBE
 
 - Como organizar seu negócio em 1 hora  
 - Rotina produtiva para autônomos desorganizados  
@@ -538,7 +538,7 @@ eu faço um diagnóstico grátis da sua rotina.”
 
 ---
 
-## 🎯 CTA PADRÃO (use sempre)
+### 🎯 CTA PADRÃO (use sempre)
 
 - “Me chama no direct que eu analiso seu caso grátis.”  
 - “Quer que eu te mostre como organizar isso no seu negócio?”  
@@ -546,7 +546,7 @@ eu faço um diagnóstico grátis da sua rotina.”
 
 ---
 
-## 🔥 PLANO SIMPLES DE EXECUÇÃO (7 dias)
+### 🔥 PLANO SIMPLES DE EXECUÇÃO (7 dias)
 
 **Dia 1–7:**
 - ✔️ 1 vídeo por dia no TikTok/Reels  
@@ -572,7 +572,7 @@ Fechou! Aqui vai um plano de conteúdo completo, prático e focado em conversão
 
 ---
 
-## 🎯 Objetivo do Plano
+### 🎯 Objetivo do Plano
 
 - Atrair pequenos negócios e autônomos  
 - Gerar conversas no direct  
@@ -581,7 +581,7 @@ Fechou! Aqui vai um plano de conteúdo completo, prático e focado em conversão
 
 ---
 
-## 🧭 Posicionamento (use em todos os perfis)
+### 🧭 Posicionamento (use em todos os perfis)
 
 **Quem você é:** Organizador profissional + automação com IA  
 **Promessa:** Menos bagunça, mais vendas  
@@ -589,7 +589,7 @@ Fechou! Aqui vai um plano de conteúdo completo, prático e focado em conversão
 
 ---
 
-## 🧱 Pilares de Conteúdo (rotacionar)
+### 🧱 Pilares de Conteúdo (rotacionar)
 
 - Dor do cliente – caos, atraso, perda de vendas  
 - Educação prática – dicas rápidas de organização e IA  
@@ -599,7 +599,7 @@ Fechou! Aqui vai um plano de conteúdo completo, prático e focado em conversão
 
 ---
 
-## 📆 Calendário Editorial – 30 Dias (Reels/TikTok + Repost)
+### 📆 Calendário Editorial – 30 Dias (Reels/TikTok + Repost)
 
 📌 Regra de ouro:
 - 1 vídeo curto por dia (Reels + TikTok + Shorts)  
@@ -611,7 +611,7 @@ Fechou! Aqui vai um plano de conteúdo completo, prático e focado em conversão
 
 ---
 
-## 🗓️ Semana 1 – Conscientização (dor + identificação)
+#### 🗓️ Semana 1 – Conscientização (dor + identificação)
 
 - Dia 1 – “Você trabalha o dia inteiro e não vê resultado?”  
 - Dia 2 – “3 sinais de que sua rotina está desorganizada”  
@@ -623,7 +623,7 @@ Fechou! Aqui vai um plano de conteúdo completo, prático e focado em conversão
 
 ---
 
-## 🗓️ Semana 2 – Educação prática (valor real)
+#### 🗓️ Semana 2 – Educação prática (valor real)
 
 - Dia 8 – “Checklist de organização para autônomos”  
 - Dia 9 – “Como organizar seus arquivos em 10 minutos”  
@@ -635,7 +635,7 @@ Fechou! Aqui vai um plano de conteúdo completo, prático e focado em conversão
 
 ---
 
-## 🗓️ Semana 3 – Autoridade (bastidores + processo)
+#### 🗓️ Semana 3 – Autoridade (bastidores + processo)
 
 - Dia 15 – Bastidor organizando um sistema  
 - Dia 16 – Mostra um fluxo de organização  
@@ -647,7 +647,7 @@ Fechou! Aqui vai um plano de conteúdo completo, prático e focado em conversão
 
 ---
 
-## 🗓️ Semana 4 – Conversão (oferta + convite)
+#### 🗓️ Semana 4 – Conversão (oferta + convite)
 
 - Dia 22 – “Se você é pequeno negócio, isso é pra você”  
 - Dia 23 – “Quanto custa continuar desorganizado?”  
@@ -661,7 +661,7 @@ Fechou! Aqui vai um plano de conteúdo completo, prático e focado em conversão
 
 ---
 
-## ✍️ 5 Legendas Prontas (copiar e colar)
+### ✍️ 5 Legendas Prontas (copiar e colar)
 
 **Legenda 1 – Dor**  
 Você trabalha muito e avança pouco porque não tem organização de processos.  
@@ -689,7 +689,7 @@ Faço um diagnóstico gratuito.
 
 ---
 
-## 🎬 Roteiros Curtos (modelo para todos os vídeos)
+### 🎬 Roteiros Curtos (modelo para todos os vídeos)
 
 **Roteiro base:**
 - Hook: “Você ainda faz isso do jeito difícil?”  
@@ -699,7 +699,7 @@ Faço um diagnóstico gratuito.
 
 ---
 
-## 📺 YouTube (1 por semana – 8 a 12 min)
+### 📺 YouTube (1 por semana – 8 a 12 min)
 
 **Temas:**
 - Como organizar um pequeno negócio do zero  
@@ -712,7 +712,7 @@ Dor → erro comum → método simples → exemplo → CTA
 
 ---
 
-## 📈 LinkedIn (3x por semana)
+### 📈 LinkedIn (3x por semana)
 
 - Post 1: Erro comum de pequenos negócios  
 - Post 2: Mini-case / aprendizado  
@@ -720,7 +720,7 @@ Dor → erro comum → método simples → exemplo → CTA
 
 ---
 
-## 🎯 CTA PADRÃO (use sempre)
+### 🎯 CTA PADRÃO (use sempre)
 
 - “Me chama no direct que eu analiso seu caso grátis.”  
 - “Quer que eu te mostre como organizar isso no seu negócio?”  
@@ -728,7 +728,7 @@ Dor → erro comum → método simples → exemplo → CTA
 
 ---
 
-## 🔥 Checklist de Execução
+### 🔥 Checklist de Execução
 
 - Bio otimizada  
 - Link para WhatsApp ou formulário  
@@ -739,8 +739,8 @@ Dor → erro comum → método simples → exemplo → CTA
 
 ---
 
-# Gerar Modelos de Contrato, Propostas Comerciais, Checklists  
-## Sugerir Nomes para seu Serviço ou Marca Pessoal
+## 3 - Gerar Modelos de Contrato, Propostas Comerciais, Checklists  
+### Sugerir Nomes para seu Serviço ou Marca Pessoal
 
 Perfeito — aqui vai um kit profissional completo, pronto pra copiar e usar hoje com:
 
@@ -755,8 +755,8 @@ Tudo alinhado ao seu posicionamento: **Agentes de IA + Automação + Marketing +
 
 ---
 
-## 📜 MODELO DE CONTRATO DE PRESTAÇÃO DE SERVIÇOS  
-### (IA, Automação, Marketing & Organização)
+### 📜 MODELO DE CONTRATO DE PRESTAÇÃO DE SERVIÇOS  
+#### (IA, Automação, Marketing & Organização)
 
 **CONTRATO DE PRESTAÇÃO DE SERVIÇOS**
 
@@ -798,8 +798,8 @@ Data: //____
 
 ---
 
-## 📄 MODELO DE PROPOSTA COMERCIAL  
-### (enxuta e vendedora)
+### 📄 MODELO DE PROPOSTA COMERCIAL  
+#### (enxuta e vendedora)
 
 **PROPOSTA DE SERVIÇOS – IA, AUTOMAÇÃO & ORGANIZAÇÃO**
 
@@ -826,7 +826,7 @@ Pronto pra começar? Posso iniciar assim que confirmar o pagamento.
 
 ---
 
-## 📄 MODELO DE PROPOSTA (versão pacote)
+### 📄 MODELO DE PROPOSTA (versão pacote)
 
 **Pacote Escolhido:** Essencial / Pro / Premium  
 
@@ -869,7 +869,7 @@ Pronto pra começar? Posso iniciar assim que confirmar o pagamento.
 
 ---
 
-## ✅ CHECKLIST DE VENDAS (funil simples)
+### ✅ CHECKLIST DE VENDAS (funil simples)
 
 - CTA no perfil (diagnóstico grátis)  
 - Chamada no WhatsApp/Meet  
@@ -882,9 +882,9 @@ Pronto pra começar? Posso iniciar assim que confirmar o pagamento.
 
   ---
 
-  ## 🏷️ NOMES PARA SEU SERVIÇO / MARCA PESSOAL
+### 🏷️ Nomes para seu Serviço / Marca Pessoal
 
-### 🔥 Tech & Moderno
+#### 🔥 Tech & Moderno
 - FluxoClaro  
 - Ordem Digital  
 - OrganizaTech  
@@ -896,7 +896,7 @@ Pronto pra começar? Posso iniciar assim que confirmar o pagamento.
 - Organize.ai  
 - IA na Prática  
 
-### 🧠 Profissional / Consultoria
+#### 🧠 Profissional / Consultoria
 - Método Fluxo  
 - Estrutura Produtiva  
 - Organização Estratégica  
@@ -905,7 +905,7 @@ Pronto pra começar? Posso iniciar assim que confirmar o pagamento.
 - Método Ordem  
 - Estruture & Cresça  
 
-### 🚀 Marca Pessoal (com seu nome)
+#### 🚀 Marca Pessoal (com seu nome)
 - [Seu Nome] Organização Digital  
 - [Seu Nome] IA & Automação  
 - Método [Seu Nome]  
@@ -913,7 +913,7 @@ Pronto pra começar? Posso iniciar assim que confirmar o pagamento.
 
 ---
 
-## 🎯 Taglines (frase de posicionamento)
+#### 🎯 Taglines (frase de posicionamento)
 - “Menos bagunça. Mais resultado.”  
 - “Processos claros. Negócios que crescem.”  
 - “Estruture hoje. Escale amanhã.”  
@@ -921,23 +921,23 @@ Pronto pra começar? Posso iniciar assim que confirmar o pagamento.
 
 ---
 
-## 💼 Pacotes de Serviço (pra facilitar o fechamento)
+### 💼 Pacotes de Serviço (pra facilitar o fechamento)
 
-### 🟢 Essencial
+#### 🟢 Essencial
 - Organização de processos + rotina  
 - 💰 R$ 297  
 
-### 🟡 Pro
+#### 🟡 Pro
 - Organização + automação básica  
 - 💰 R$ 697  
 
-### 🔵 Premium
+#### 🔵 Premium
 - Organização + automação + agente de IA + suporte  
 - 💰 R$ 1.497 + mensalidade
 
   ---
 
-  ## 3 - Montar um portfólio simples no GitHub para mostrar projetos, ideias ou exemplos do que você faz
+## 3 - Montar um portfólio simples no GitHub para mostrar projetos, ideias ou exemplos do que você faz
 
 Perfeito — vamos montar um portfólio simples, profissional e vendável no GitHub pra você fechar clientes como especialista em Agentes de IA, Automação, Marketing & Organização.  
 Isso aqui vira sua “vitrine” pra Workana, 99Freelas, Upwork, Fiverr, GetNinjas e LinkedIn. 🚀  
@@ -951,7 +951,7 @@ Vou te entregar:
 
 ---
 
-## 📁 Estrutura do Portfólio no GitHub
+### 📁 Estrutura do Portfólio no GitHub
 
 Crie um repositório com este nome:
 
@@ -979,32 +979,32 @@ Crie um repositório com este nome:
 
 ---
 
-## 📝 README PRINCIPAL (copiar e colar no GitHub)
+### 📝 README PRINCIPAL (copiar e colar no GitHub)
 
-# 🚀 Portfólio – IA, Automação, Marketing & Organização
+#### 🚀 Portfólio – IA, Automação, Marketing & Organização
 
 Este repositório reúne exemplos de projetos e soluções que desenvolvo para  
 autônomos, pequenos negócios e e-commerces.
 
-## 🎯 O que eu faço
+#### 🎯 O que eu faço
 - 🤖 Criação de Agentes de IA para atendimento e vendas  
 - ⚙️ Automação de processos (leads, follow-up, CRM)  
 - 📈 Marketing digital e social media  
 - 🧠 Organização de processos e produtividade  
 
-## 🧩 Tipos de Projetos
+#### 🧩 Tipos de Projetos
 - Agentes de IA para WhatsApp/Instagram  
 - Workflows de automação  
 - Organização digital de processos  
 - Estruturação de presença online  
 
-## 📂 Navegue pelos projetos
+#### 📂 Navegue pelos projetos
 - /agentes-ia  
 - /automacoes  
 - /marketing  
 - /organizacao  
 
-## 📩 Contato
+#### 📩 Contato
 Me chame para um diagnóstico gratuito:  
 - WhatsApp: [seu link]  
 - E-mail: [seu email]  
@@ -1012,68 +1012,68 @@ Me chame para um diagnóstico gratuito:
 
 ### 📄 TEMPLATE DE README PARA CADA PROJETO (copiar para todos os arquivos)
 
-# 📌 Título do Projeto
+#### 📌 Título do Projeto
 
-## 🧩 Problema
+#### 🧩 Problema
 Descreva o problema do cliente (ex: atendimento lento, bagunça de arquivos, perda de leads).
 
-## 🎯 Objetivo
+#### 🎯 Objetivo
 O que o projeto resolve?
 
-## 🛠️ Solução
+#### 🛠️ Solução
 Explique a solução criada (agente de IA, automação, organização, marketing).
 
-## ⚙️ Tecnologias / Ferramentas
+#### ⚙️ Tecnologias / Ferramentas
 - IA: [ex: GPT]  
 - Automação: [ex: n8n, Zapier]  
 - Organização: [ex: Notion, Drive]  
 - Marketing: [ex: Instagram, Landing Page]  
 
-## 📈 Resultado Esperado
+#### 📈 Resultado Esperado
 - Menos trabalho manual  
 - Mais organização  
 - Mais vendas / mais leads  
 
-## 🔁 Próximos Passos
+#### 🔁 Próximos Passos
 Sugestões de melhorias ou expansão.
 
-## 🧩 6 PROJETOS-EXEMPLO (prontos para criar agora)
+### 🧩 6 PROJETOS-EXEMPLO (prontos para criar agora)
 
-### 🤖 1. Chatbot para WhatsApp (`agentes-ia/chatbot-whatsapp.md`)
+#### 🤖 1. Chatbot para WhatsApp (`agentes-ia/chatbot-whatsapp.md`)
 - **Problema:** Cliente perde vendas por demora no atendimento  
 - **Solução:** Agente de IA responde dúvidas e qualifica leads  
 - **Resultado:** Atendimento 24h + mais conversão  
 
-### 🤖 2. Assistente de Vendas no Instagram
+#### 🤖 2. Assistente de Vendas no Instagram
 - **Problema:** Muitos directs sem resposta  
 - **Solução:** IA responde FAQs e encaminha para compra  
 - **Resultado:** Leads aquecidos automaticamente  
 
-### ⚙️ 3. Automação de Leads para CRM
+#### ⚙️ 3. Automação de Leads para CRM
 - **Problema:** Leads se perdem  
 - **Solução:** Workflow que capta lead e envia para CRM  
 - **Resultado:** Zero leads perdidos  
 
-### ⚙️ 4. Follow-up Automático
+#### ⚙️ 4. Follow-up Automático
 - **Problema:** Cliente esquece de responder propostas  
 - **Solução:** Automação de lembretes por WhatsApp/E-mail  
 - **Resultado:** Mais fechamentos  
 
-### 📈 5. Social Media para Pequeno Negócio
+#### 📈 5. Social Media para Pequeno Negócio
 - **Problema:** Perfil não gera vendas  
 - **Solução:** Bio otimizada + posts estratégicos  
 - **Resultado:** Mais leads no direct  
 
-### 🧠 6. Organização Digital para Autônomo
+#### 🧠 6. Organização Digital para Autônomo
 - **Problema:** Caos de arquivos e tarefas  
 - **Solução:** Estrutura de pastas + rotina no Notion  
 - **Resultado:** Mais foco e produtividade  
 
 ---
 
-## 💼 Como usar esse portfólio para fechar clientes
+### 💼 Como usar esse portfólio para fechar clientes
 
-### 🔗 Link nas plataformas
+#### 🔗 Link nas plataformas
 Coloque o link do GitHub no:
 - Workana  
 - 99Freelas  
@@ -1081,13 +1081,13 @@ Coloque o link do GitHub no:
 - Fiverr  
 - LinkedIn  
 
-### 📌 Frase pronta para proposta
+#### 📌 Frase pronta para proposta
 Tenho um portfólio com exemplos de projetos de IA, automação e organização que já desenvolvi.  
 Posso te enviar o link para você ver como funciona na prática?
 
 ---
 
-## 🎯 Dica de Ouro
+#### 🎯 Dica de Ouro
 Mesmo que os projetos sejam simulados, escreva como se fossem reais, focando em:
 - Problema  
 - Solução  
@@ -1097,7 +1097,7 @@ Isso vende mais do que código.
 
 ---
 
-## 🛠️ Checklist de Execução (30 minutos)
+#### 🛠️ Checklist de Execução (30 minutos)
 - Criar repositório no GitHub  
 - Colar README principal  
 - Criar pastas  
@@ -1105,10 +1105,10 @@ Isso vende mais do que código.
 - Adicionar link do portfólio nos perfis  
 - Enviar link nas propostas
 
-## 4 - Fazer parcerias locais  
+### 4 - Fazer parcerias locais  
 Pequenos negócios da sua região e sair com reuniões marcadas.
 
-### 🎯 Objetivo
+#### 🎯 Objetivo
 Fechar 3–5 parcerias locais que te tragam clientes recorrentes para:
 - Organização profissional  
 - Agentes de IA  
@@ -1117,7 +1117,7 @@ Fechar 3–5 parcerias locais que te tragam clientes recorrentes para:
 
 ---
 
-### 🗺️ Quem abordar primeiro (na sua região)
+#### 🗺️ Quem abordar primeiro (na sua região)
 Priorize negócios que:
 - Dependem de WhatsApp/Instagram  
 - Perdem clientes por demora no atendimento  
@@ -1135,7 +1135,7 @@ Priorize negócios que:
 
 ---
 
-### 🗣️ Script de abordagem (presencial / WhatsApp)
+#### 🗣️ Script de abordagem (presencial / WhatsApp)
 
 **📍 Abordagem presencial (30 segundos)**  
 “Oi! Tudo bem? Sou da região e ajudo pequenos negócios a ganharem mais clientes e economizarem tempo com organização e automação (até com IA).  
@@ -1148,7 +1148,7 @@ Posso te mostrar em poucos minutos como vocês poderiam ganhar tempo e responder
 
 ---
 
-### 🤝 Proposta de parceria (ganha-ganha)
+#### 🤝 Proposta de parceria (ganha-ganha)
 
 **🧩 Modelo de parceria simples**  
 Você oferece:
@@ -1163,7 +1163,7 @@ Em troca:
 
 ---
 
-### 📄 Mini-proposta de parceria (pra enviar)
+#### 📄 Mini-proposta de parceria (pra enviar)
 
 **Proposta de Parceria Local**
 
@@ -1176,7 +1176,7 @@ Em troca, proponho uma parceria de indicação:
 
 ---
 
-### 🎁 Oferta de entrada (pra quebrar objeção)
+#### 🎁 Oferta de entrada (pra quebrar objeção)
 Sempre tenha uma isca gratuita:
 - Diagnóstico de organização (15 min)  
 - Mini-análise do atendimento no WhatsApp  
@@ -1187,7 +1187,7 @@ Sempre tenha uma isca gratuita:
 
 ---
 
-### 🧠 Roteiro da conversa (passo a passo)
+#### 🧠 Roteiro da conversa (passo a passo)
 1️⃣ Elogia algo real do negócio  
 2️⃣ Aponta um problema comum  
 3️⃣ Mostra que você resolve  
@@ -1196,7 +1196,7 @@ Sempre tenha uma isca gratuita:
 
 ---
 
-### 📆 Plano de ação – 7 dias (na prática)
+#### 📆 Plano de ação – 7 dias (na prática)
 
 **Dia 1:**  
 Liste 20 negócios da sua região (Google Maps / Instagram)
@@ -1221,7 +1221,7 @@ Feche pelo menos 1 parceria
 
 ---
 
-### ✅ Checklist de campo (pra sair na rua)
+#### ✅ Checklist de campo (pra sair na rua)
 - Cartão de visita (ou QR code do WhatsApp)  
 - Pitch de 30 segundos memorizado  
 - Oferta de diagnóstico grátis  
@@ -1230,7 +1230,7 @@ Feche pelo menos 1 parceria
 
 ---
 
-### 🔥 Frases que convertem
+#### 🔥 Frases que convertem
 - “Você está perdendo clientes por demora no atendimento.”  
 - “Isso aqui dá pra automatizar fácil.”  
 - “Em poucos dias dá pra organizar isso.”  
@@ -1239,7 +1239,7 @@ Feche pelo menos 1 parceria
 
 ---
 
-### 💡 Estratégia ninja (parceria indireta)
+#### 💡 Estratégia ninja (parceria indireta)
 Faça parceria com quem já atende muitos pequenos negócios:
 - Contadores  
 - Designers  
@@ -1251,7 +1251,7 @@ Eles viram seu canal de indicação.
 
 ---
 
-### 🎯 Meta realista
+#### 🎯 Meta realista
 Em 30 dias:
 - 20 abordagens  
 - 8 diagnósticos  
