@@ -2,9 +2,9 @@
 
 Descobrir vocação através de habilidades (técnias, comportamental e criativa) e fazer carreira na área de Tecnologia
 
------------------------------------------------------------------------------------------------------------
+---
 # Etapa 1: Inventário de Habilidades 
------------------------------------------------------------------------------------------------------------
+---
 
  ## Habilidades Técnicas
 - Automatização de workflow no n8n
@@ -111,7 +111,7 @@ Descobrir vocação através de habilidades (técnias, comportamental e criativa
 
 
 
-#📊 Quadro de Habilidades e Oportunidades de Mercado 2026
+### Quadro de Habilidades e Oportunidades de Mercado 2026
 
 <img width="747" height="586" alt="image" src="https://github.com/user-attachments/assets/d1a5643b-0cc4-42e7-a89b-8fd01cca5707" />
 
@@ -156,7 +156,7 @@ Vou criar textos prontos para você usar em:
 - Proposta comercial curta
 
 
-1️⃣ BIO PROFISSIONAL (Instagram / LinkedIn)
+### 1️⃣ BIO PROFISSIONAL (Instagram / LinkedIn)
 Opção 1 – Direta e Estratégica
 🚀 Especialista em Agentes de IA Inteligentes
 🤖 Automação com n8n + IA Autônoma
@@ -172,10 +172,10 @@ Desenvolvo Agentes de IA personalizados para empresas que querem escalar atendim
 ✔ IA Autônoma + RAG
 Transformo IA em produtividade real.
 
-
-💼 2️⃣ DESCRIÇÃO DE SERVIÇOS (Para sites de Freelancer)
+### 2️⃣ DESCRIÇÃO DE SERVIÇOS (Para sites de Freelancer)
 Descrição Profissional Completa
-Sou especialista em desenvolvimento de Agentes de IA Inteligentes, utilizando técnicas avançadas como Engenharia de Prompt, RAG (Retrieval-Augmented Generation),automações com n8n e criação de agentes autônomos.
+Sou especialista em desenvolvimento de Agentes de IA Inteligentes, utilizando técnicas avançadas como Engenharia de Prompt, RAG (Retrieval-Augmented Generation),automações 
+com n8n e criação de agentes autônomos.
 
 Desenvolvo soluções para:
 - Atendimento automatizado inteligente
@@ -188,7 +188,8 @@ Desenvolvo soluções para:
 Trabalho como PJ e entrego soluções personalizadas, escaláveis e orientadas a resultados.
 
 
-📲 3️⃣ POST PARA INSTAGRAM
+### 3️⃣ POST PARA INSTAGRAM
+
 Post 1 – Autoridade
 ⚠ Empresas que não estão usando IA estão ficando para trás.
 Eu desenvolvo Agentes de IA que:
@@ -197,7 +198,6 @@ Eu desenvolvo Agentes de IA que:
 ✔ Automatizam processos
 ✔ Aprendem com base de dados (RAG)
 ✔ Se você quer escalar com inteligência, me chama no direct.
-
 
 Post 2 – Educação + Venda
 🤖 O que é um Agente de IA Autônomo?
@@ -214,7 +214,7 @@ Eu desenvolvo agentes personalizados com:
 Quer aplicar isso na sua empresa?
 
 
-💼 4️⃣ APRESENTAÇÃO COMO PJ (Para enviar no WhatsApp ou Email)
+### 4️⃣ APRESENTAÇÃO COMO PJ (Para enviar no WhatsApp ou Email)
 Olá!
 Atuo como Desenvolvedor de Agentes de IA Inteligentes, criando soluções personalizadas para empresas que desejam automatizar processos, atendimento e vendas.
 Trabalho com:
@@ -225,13 +225,13 @@ Trabalho com:
 Posso estruturar uma solução sob medida para sua necessidade.
 
 
-💰 5️⃣ DESCRIÇÃO CURTA PARA PERFIL DE FREELANCER
+### 5️⃣ DESCRIÇÃO CURTA PARA PERFIL DE FREELANCER
 Especialista em IA aplicada a negócios.
 Desenvolvimento de agentes inteligentes com RAG, automação n8n e engenharia de prompt.
 Transformo IA em resultados práticos.
 
 
-🎯 6️⃣ POSICIONAMENTO ESTRATÉGICO (IMPORTANTE)
+### 6️⃣ POSICIONAMENTO ESTRATÉGICO (IMPORTANTE)
 Se você quer ganhar mais como PJ, foque em nichos como:
 🏥 Clínicas e consultórios
 🏢 Escritórios jurídicos
@@ -246,7 +246,7 @@ Exemplo:
 Agentes de IA para imobiliárias que automatizam captação e atendimento.
 Isso aumenta muito o valor percebido.
 
-—----------------------------------------------------------------------------------------------------------
+---
 
 ## Gerar modelos de contrato, propostas comerciais, checklists
 
@@ -258,8 +258,7 @@ Perfeito. Vou te entregar um kit profissional completo para você atuar como PJ 
 5️⃣ Checklist Jurídico e Financeiro
 
 
-
-📄 1️⃣ MODELO DE CONTRATO – PRESTAÇÃO DE SERVIÇOS (IA, AUTOMAÇÃO, AGENTES)
+### 1️⃣ MODELO DE CONTRATO – PRESTAÇÃO DE SERVIÇOS (IA, AUTOMAÇÃO, AGENTES)
 
 CONTRATANTE: 
 Nome/Razão Social: 
@@ -317,7 +316,7 @@ Data: ___ / ___ / ___
 
 
 
-💼 2️⃣ MODELO DE PROPOSTA COMERCIAL 
+### 2️⃣ MODELO DE PROPOSTA COMERCIAL 
 PROPOSTA COMERCIAL - AGENTE DE IA PERSONALIZADO
 
 1. Diagnóstico 
@@ -355,7 +354,7 @@ Forma de pagamento: _______
 
 
 
-📋 3️⃣ CHECKLIST DE ONBOARDING DO CLIENTE 
+### 3️⃣ CHECKLIST DE ONBOARDING DO CLIENTE 
 Antes de começar qualquer projeto: 
 🔎 Informações do Negócio 
 - Descrição do serviço/produto 
@@ -386,7 +385,7 @@ Antes de começar qualquer projeto:
 
 
 
-⚙️ 4️⃣ CHECKLIST TÉCNICO – ENTREGA DO PROJETO 
+### 4️⃣ CHECKLIST TÉCNICO – ENTREGA DO PROJETO 
 Antes de finalizar: 
 🤖 IA 
 - Prompts testados 
@@ -394,22 +393,17 @@ Antes de finalizar:
 - Restrições de segurança 
 - Teste de alucinação 
 
-
-
 🔁 Automação 
 - Fluxos n8n revisados 
 - Webhooks testados 
 - Tratamento de erro configurado 
 - Logs ativados 
 
-
-
 📊 Performance 
 - Teste de carga 
 - Tempo médio de resposta 
 - Fallback configurado 
 - Backup da base de dados
-
 
 � Documentação 
 - Manual de uso 
@@ -418,7 +412,7 @@ Antes de finalizar:
 - Termo de aceite assinado
 
 
-💰 5️⃣ CHECKLIST JURÍDICO E FINANCEIRO 
+### 5️⃣ CHECKLIST JURÍDICO E FINANCEIRO 
 - Contrato assinado 
 - Nota fiscal emitida 
 - Pagamento confirmado 
@@ -426,7 +420,7 @@ Antes de finalizar:
 - SLA definido (se mensal)
 
 
-🔥 DICA ESTRATÉGICA (MUITO IMPORTANTE) 
+### 🔥 DICA ESTRATÉGICA (MUITO IMPORTANTE) 
 Você pode vender em 3 formatos: 
 🟢 Projeto fechado 
 Ex: R$ 3.000 a R$ 15.000 
@@ -438,12 +432,11 @@ Ex: R$ 5.000 implantação R$ 800/mês manutenção
 Mensalidade recorrente com melhorias contínuas 
 Esse último é o mais lucrativo.
 
-—----------------------------------------------------------------------------------------------------------
+---
 
 ##Nome para o Serviço e Marca Pessoal 
 
-
-🔥 1️⃣ Nome Forte para Marca Pessoal (Autoridade Individual) 
+### 1️⃣ Nome Forte para Marca Pessoal (Autoridade Individual) 
 Ideal se você quer vender como especialista. 
 
 ⚡ Opções Premium 
@@ -461,8 +454,7 @@ Se quiser algo mais moderno:
 10. Cortex Digital 
 
 
-
-🚀 2️⃣ Nome para Serviço Específico (Produto Vendável) 
+### 2️⃣ Nome para Serviço Específico (Produto Vendável) 
 Se quiser vender como “produto estruturado”: 
 
 💼 Linha mais corporativa 
@@ -480,8 +472,7 @@ Se quiser vender como “produto estruturado”:
 - AI Workflow Systems
 
 
-
-💎 3️⃣ Nome Estratégico (Mais Escalável e Diferente) 
+ ### 3️⃣ Nome Estratégico (Mais Escalável e Diferente) 
 Esses têm potencial de virar agência: 
 
 - NexAgent 
@@ -519,10 +510,9 @@ Serviço: AgentFlow – Sistema de Agentes Inteligentes
 Isso cria produto + empresa.
 
 
+---
 
------------------------------------------------------------------------------------------------------------
 ## Criar um plano de conteúdo para atrair clientes
-
 
 Perfeito.
 Vou montar um plano estratégico de conteúdo para atrair clientes pagantes (não
@@ -678,7 +668,7 @@ Com esse plano por 60 dias:
 - 2 a 5 fechamentos
 - Ticket médio pode subir rápido
 
-🎯 DICA AVANÇADA (Nível Estratégico)
+###🎯 DICA AVANÇADA (Nível Estratégico)
 Você pode nichar o conteúdo:
 
 Exemplo:
@@ -686,3 +676,211 @@ Exemplo:
 - “IA para Imobiliárias”
 - “IA para Escritórios Jurídicos”
 - Especialização = autoridade mais rápida.
+
+---
+
+## Me ajude a escrever uma bio para Instagram, tik tok, linkedin, youtube
+
+Perfeito. Vou criar bios estratégicas para cada rede, adaptadas ao comportamento da
+plataforma e focadas em atrair clientes (não curiosos).
+Seu posicionamento base:
+🤖 Agentes de IA
+🔁 Automação com n8n
+🧠 Engenharia de Prompt
+📚 RAG
+💼 Serviços PJ
+
+📸 Instagram (curta, clara e comercial)
+Instagram precisa ser:
+- Direto
+- Escaneável
+- Foco em resultado
+- 
+🔥 Opção 1 – Comercial Forte
+🤖 Desenvolvo Agentes de IA para empresas
+🔁 Automação inteligente com n8n
+🧠 RAG + Engenharia de Prompt
+📈 IA aplicada para escalar negócios
+📩 Projetos PJ | Chama no direct
+
+🔥 Opção 2 – Autoridade Técnica
+Especialista em IA aplicada a negócios
+Agentes Autônomos + RAG
+Automação de processos
+Transformo IA em lucro
+↓ Diagnóstico estratégico
+
+🎵 TikTok (mais simples e magnética)
+TikTok precisa ser:
+- Clara
+- Curta
+- Curiosa
+
+� Opção 1
+Construo Agentes de IA que trabalham por você
+Automação real (não chatbot básico)
+IA para empresas
+👇 Quer automatizar?
+
+🔥 Opção 2
+IA prática para negócios
+Agentes inteligentes
+Automação 24h
+Mostro tudo na prática
+
+### LinkedIn (mais profissional e estratégico)
+LinkedIn precisa transmitir:
+Competência
+Solução empresarial
+Clareza de impacto
+
+� Opção 1 – Corporativa
+Desenvolvedor de Agentes de IA e Automação Inteligente.
+Especializado em:
+• Engenharia de Prompt
+• RAG (IA com base de conhecimento)
+• Automação com n8n
+• Integração com APIs e CRM
+Ajudo empresas a reduzir custos e escalar operações com IA.
+
+
+� Opção 2 – Consultor Estratégico
+Especialista em IA aplicada a negócios.
+Estruturo Agentes Inteligentes que automatizam atendimento, vendas e processos
+internos
+
+### YouTube (mais explicativa e posicionamento de autoridade)
+YouTube permite descrição maior.
+
+� Opção 1
+Canal sobre Inteligência Artificial aplicada a negócios.
+Aqui você aprende como criar:
+• Agentes de IA Autônomos
+• Sistemas com RAG
+• Automações com n8n
+• Engenharia de Prompt profissional
+Conteúdo prático para quem quer usar IA para gerar resultado real.
+
+� Opção 2 – Foco em Empresários
+Mostro como empresas podem usar IA para automatizar atendimento, vendas e
+processos.
+Sem hype. Sem teoria.
+Apenas aplicação prática.
+
+� Estratégia Final (Muito Importante)
+Se quiser parecer mais especialista ainda:
+Use sempre a mesma frase central em todas:
+- “Agentes de IA que automatizam e escalam negócios.”
+Consistência gera autoridade.
+
+---
+
+##Sugira ideias de conteúdo para TikTok 
+
+TikTok é alcance + autoridade rápida + prova visual
+
+Para você que trabalha com:
+🤖 Agentes de IA
+🔁 Automação com n8n
+🧠 Engenharia de Prompt
+📚 RAG
+💼 Serviços PJ
+
+O ideal é misturar:
+1. Conteúdo impactante (gancho forte)
+2. Demonstração prática
+3. Comparação humano vs IA
+4. Erros e mitos
+5. Convite para diagnóstico
+Vou te entregar 30 ideias estratégicas, separadas por categoria.
+
+### 1️⃣ Conteúdo que chama atenção (Viralizável)
+1. “Pare de usar IA errado”
+Explique o erro comum das empresas.
+2. “Isso não é um chatbot…”
+Mostre diferença entre bot simples e agente com RAG.
+3. “Sua empresa está perdendo dinheiro se…”
+Ex: responde cliente manualmente.
+4. “O maior mito sobre Inteligência Artificial”
+Que IA substitui tudo automaticamente.
+5. “Você não precisa contratar mais funcionários, você precisa disso…”
+
+### 2️⃣ Demonstração prática (Autoridade)
+6. Mostre um agente respondendo cliente
+Grave tela + legenda explicando.
+7. Mostre fluxo no n8n funcionando
+Entrada → IA → decisão → ação.
+8. Mostre agente consultando base de dados (RAG)
+9. Mostre prompt antes/depois otimizado
+10. Simule atendimento de clínica ou imobiliária
+Esse tipo converte MUITO.
+
+### 3️⃣ Conteúdo focado em dinheiro
+11. “Quanto custa NÃO automatizar seu atendimento?”
+12. Comparação:
+Funcionário CLT vs Agente IA 24h
+13. “Como economizar 40% no atendimento”
+14. “Como escalar sem aumentar equipe”
+15. “Automação que paga o próprio investimento”
+Empresário presta atenção nisso.
+
+### 4️⃣ Educação simples (sem ser técnico demais)
+16. O que é RAG em 30 segundos
+17. O que é Engenharia de Prompt
+18. O que é um agente autônomo
+19. O que é automação inteligente
+20. Como IA toma decisões
+Sempre usando exemplos reais.
+
+### 5️⃣ Conteúdo nichado (Gera clientes reais)
+Escolha um nicho por semana.
+21. IA para clínicas
+22. IA para imobiliárias
+23. IA para e-commerce
+24. IA para advogados
+25. IA para infoprodutores
+Quando você nichar, aumenta a conversão.
+
+### 6️⃣ Conteúdo de posicionamento forte
+26. “Eu não vendo chatbot barato”
+27. “IA sem automação é só brinquedo”
+28. “Se sua IA não executa ações, ela não é inteligente”
+29. “Automação é a nova equipe invisível”
+30. “Eu construo funcionários digitais”
+Esse tipo gera autoridade imediata
+
+� Estrutura pronta para seus vídeos
+Use esse modelo:
+1️⃣ Gancho forte (3 segundos)
+“Se você responde cliente manualmente, você está atrasado.”
+2️⃣ Explicação curta
+- Empresas estão usando agentes de IA para...
+3️⃣ Demonstração ou exemplo
+4️⃣ Chamada leve
+Quer aplicar isso no seu negócio? Comenta ‘IA’.
+
+📈 Estratégia Inteligente para Crescer
+Postar:
+1 vídeo por dia (ideal)
+ou 4 por semana (mínimo)
+
+Misturar:
+2 vídeos educativos
+1 demonstração
+1 posicionamento
+
+🎯 Dica Avançada
+Os vídeos que mais geram clientes são:
+- Mostrando automação real
+- Falando de dinheiro
+- Mostrando economia de tempo
+- Conteúdo nichado
+Não é o vídeo super técnico.
+“Se você responde cliente manualmente, você está atrasado.”
+- Escrever 10 roteiros prontos de 30–60 segundos
+- Criar um calendário de 30 dias estruturado
+- Criar roteiro para viralizar
+- Criar estratégia para bater 10k seguidores qualificados
+- Criar funil para converter seguidores em clientes
+Qual você quer montar agora? 🚀
+
